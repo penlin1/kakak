@@ -1,1 +1,13 @@
-{"app_id": "wxd6ef18c00d3fc933", "app_secret": "e61ebf722d4a7276dcb863d72a01fabb", "template_id": "vqFsTiySs9AbWye2YVZH7AcPjNrWKvv3Karzsc3E5Kc	", "user": ["og_c16I6S6ja4zpWAbgNpEf2pxQs", ""], "province": "", "city": "\u91cd\u5e86", "birthday1": "对象生日（格式例:1996-10-01）", "birthday2": "你的生日", "birthday3": "1997-01-03", "love_date": "你们的恋爱日", "Whether_Eng": "\u5426", "caihongpi_API": "7a48cd42bc6bc2b76ab8316bf6d31316", "lizhi_API": "\u5426", "tianqi_API": "7a48cd42bc6bc2b76ab8316bf6d31316", "health_API": "7a48cd42bc6bc2b76ab8316bf6d31316", "lucky_API": "7a48cd42bc6bc2b76ab8316bf6d31316", "astro": "\u72ee\u5b50\u5ea7"}
+{"app_id": "wxd6ef18c00d3fc933", 
+"app_secret": "e61ebf722d4a7276dcb863d72a01fabb",
+"template_id": "vqFsTiySs9AbWye2YVZH7AcPjNrWKvv3Karzsc3E5Kc", 
+"user": ["og_c16I6S6ja4zpWAbgNpEf2pxQs", "og_c16I6S6ja4zpWAbgNpEf2pxQs"],
+"province": "", 
+"city": "\u91cd\u5e86",
+"birthday1": "1999-06-21", 
+"birthday2": "1999-06-21", "birthday3": "1997-01-03", "love_date": "1999-06-21", 
+"Whether_Eng": "\u5426", "caihongpi_API": "7a48cd42bc6bc2b76ab8316bf6d31316", 
+"lizhi_API": "\u5426", "tianqi_API": "7a48cd42bc6bc2b76ab8316bf6d31316", 
+"health_API": "7a48cd42bc6bc2b76ab8316bf6d31316",
+"lucky_API": "7a48cd42bc6bc2b76ab8316bf6d31316",
+"astro": "\u72ee\u5b50\u5ea7"}
